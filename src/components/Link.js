@@ -1,6 +1,9 @@
+
 import React from 'react'
 import PropTypes from 'prop-types'
 import classnames from 'classnames'
+
+/** Simple component for a standard HTML link <a> tag */
 
 const Link = ({ active, children, setFilter }) =>
   (
@@ -16,6 +19,7 @@ const Link = ({ active, children, setFilter }) =>
 
 
 Link.propTypes = {
+  /** creates the active state of a link */
   active: PropTypes.bool.isRequired,
   children: PropTypes.node.isRequired,
   setFilter: PropTypes.func.isRequired
