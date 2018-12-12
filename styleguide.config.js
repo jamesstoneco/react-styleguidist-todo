@@ -1,6 +1,7 @@
 module.exports = {
     title: 'TodoMVC',
     pagePerSection: true,
+    version: 'v1.0.1',
     sections: [
         {
             name: "Introduction",
