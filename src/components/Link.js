@@ -3,6 +3,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import classnames from 'classnames'
 
+// added to force import on styleguide
+import "todomvc-app-css/index.css";
+
 /** Simple component for a standard HTML link <a> tag */
 
 const Link = ({ active, children, setFilter }) =>
