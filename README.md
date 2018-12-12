@@ -1,8 +1,12 @@
-# Redux TodoMVC Example
+# React Stylegudist Example
+
+This work is based on the original [Redux TodoMVC Example](https://github.com/reduxjs/redux/tree/master/examples/todomvc) from the Redux project examples by Dan Abramov. The purpose of this repo is to explain how React Styleguidist could be easily added to an existing project step-by-step. It is not a fork of the original project because it was a sub directory of the redux project and the rest of the repo is not revelant. This project was forked off the master branch of the original project with Redux v4.0.1 and has been proven to work with Redux 3.7.2.
+
+## Original
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 
-Projects built with Create-React-App include support for ES6 syntax, as well as several unofficial / not-yet-final forms of Javascript syntax such as Class Properties and JSX.  See the list of [language features and polyfills supported by Create-React-App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#supported-language-features-and-polyfills) for more information.
+Projects built with Create-React-App include support for ES6 syntax, as well as several unofficial / not-yet-final forms of Javascript syntax such as Class Properties and JSX. See the list of [language features and polyfills supported by Create-React-App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#supported-language-features-and-polyfills) for more information.
 
 ## Available Scripts
 
