@@ -2,7 +2,7 @@
 
 This work is based on the original [Redux TodoMVC Example](https://github.com/reduxjs/redux/tree/master/examples/todomvc) from the Redux project examples by **Dan Abramov**. The purpose of this repo is to explain how React Styleguidist could be easily added to an existing project step-by-step. It is not a fork of the original project because it was a sub directory of the redux project and the rest of the repo is not revelant. This project was forked off the master branch of the original project with Redux v4.0.1 and has been proven to work with Redux 3.7.2. The original readme has been edited and attached below.
 
-[Slides from the talk] at React Helsinki and Futurice Tech Weeklies. 
+[Slides from the talk](https://www.slideshare.net/JAMESSTONEco/easy-bolton-docs-using-react-styleguidist) at React Helsinki and Futurice Tech Weeklies. 
 
 Youtube Video coming soon. 
 
